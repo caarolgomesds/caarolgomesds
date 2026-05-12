@@ -14,9 +14,16 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB6cWQ4Zm9hZjN3eXF6M3N6OGRxZ3ZxNzNkMnl3YmQzYnRxZDJsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ### 🚀 About Me
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%"/>
+
+</td>
+<td width="50%">
 
 ```python
 class Carolina:
@@ -25,7 +32,9 @@ class Carolina:
         self.role = "PhD Student"
         self.university = "UNIFESP"
         self.location = "São Paulo, Brazil"
-        self.interests = ["Machine Learning", "Data Science", "Python"]
+        self.interests = ["Machine Learning", 
+                         "Data Science", 
+                         "Python"]
     
     def current_status(self):
         return {
@@ -35,7 +44,9 @@ class Carolina:
         }
 ```
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -43,7 +54,16 @@ class Carolina:
 
 <table>
 <tr>
-<td width="50%">
+<td width="40%">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%"/>
+
+</td>
+<td width="60%">
+
+<table>
+<tr>
+<td>
 
 #### 🔬 Research Areas
 - Materials Science
@@ -52,13 +72,17 @@ class Carolina:
 - Scientific Computing
 
 </td>
-<td width="50%">
+<td>
 
 #### 🤖 Technical Skills
 - Machine Learning
 - Deep Learning
 - Data Analysis
 - Python Programming
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
